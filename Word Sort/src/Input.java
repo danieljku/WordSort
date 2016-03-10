@@ -3,7 +3,7 @@ import java.util.*;
 public class Input {
 
 	/**
-	* class P3
+	* class Input
 	* This program takes in words and are sorted into ascending and descending 
 	* order. Type char is used for the choice of whether to continue or not.
 	* Type string is used for the words that the user inputs. Also type string is
